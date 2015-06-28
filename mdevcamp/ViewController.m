@@ -28,8 +28,6 @@
 }
 
 - (void)viewWillAppear:(BOOL)animated {
-
-    self.filterButton.enabled = NO;
     
     //farba pozadia
     [[self.searchField.rac_textSignal

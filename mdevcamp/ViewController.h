@@ -11,9 +11,7 @@
 @interface ViewController : UIViewController <UITableViewDataSource>
 
 @property (nonatomic, weak) IBOutlet UITextField *searchField;
-@property (nonatomic, strong) IBOutlet UIButton *filterButton;
 @property (nonatomic, weak) IBOutlet UITableView *tableView;
-@property (nonatomic, strong) IBOutlet UIActivityIndicatorView *activityIndicator;
 
 @end
 

@@ -12,20 +12,24 @@
 	<dict>
 		<key>2916939D4431F494212CC1BAB1859B1FB43AB5A9</key>
 		<string>https://bitbucket.org/alexwald/mdevcamp.git</string>
+		<key>F020601B5D9EF220454DD3E69C761E47CE996C56</key>
+		<string>https://github.com/alexwald/mdevcamp15.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>mdevcamp.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>2916939D4431F494212CC1BAB1859B1FB43AB5A9</key>
+		<string>../../mdevcamp</string>
+		<key>F020601B5D9EF220454DD3E69C761E47CE996C56</key>
 		<string>..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://bitbucket.org/alexwald/mdevcamp.git</string>
+	<string>https://github.com/alexwald/mdevcamp15.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>2916939D4431F494212CC1BAB1859B1FB43AB5A9</string>
+	<string>F020601B5D9EF220454DD3E69C761E47CE996C56</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
@@ -35,6 +39,14 @@
 			<string>2916939D4431F494212CC1BAB1859B1FB43AB5A9</string>
 			<key>IDESourceControlWCCName</key>
 			<string>mdevcamp</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>F020601B5D9EF220454DD3E69C761E47CE996C56</string>
+			<key>IDESourceControlWCCName</key>
+			<string>mdevcamp15</string>
 		</dict>
 	</array>
 </dict>
